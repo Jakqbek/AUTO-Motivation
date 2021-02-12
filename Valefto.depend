@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1612547091 source:/home/jakqbek/Dokumenty/c++/Valefto/main.cpp
+	<iostream>
+	<cstdlib>
+	<unistd.h>
+	<stdio.h>
+	"Repozytorium.h"
+	"Techno.h"
+	"Aktuelle.h"
+	"Qrap.h"
+	"Quiz.h"
+
+1612552362 /home/jakqbek/Dokumenty/c++/Valefto/Repozytorium.h
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+
+1612551536 /home/jakqbek/Dokumenty/c++/Valefto/Techno.h
+	<iostream>
+
+1612551761 /home/jakqbek/Dokumenty/c++/Valefto/Aktuelle.h
+	<iostream>
+
+1612973261 /home/jakqbek/Dokumenty/c++/Valefto/Qrap.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<unistd.h>
+	<stdio.h>
+
+1612973261 /home/jakqbek/Dokumenty/c++/Valefto/Quiz.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<algorithm>
+	<string>
+
+1612285463 /home/jakqbek/Dokumenty/c++/Valefto/main.cpp
+	<iostream>
+	<cstdlib>
+	<unistd.h>
+	<stdio.h>
+	"Repozytorium.h"
+	"Techno.h"
+	"Aktuelle.h"
+	"Qrap.h"
+	"Quiz.h"
+

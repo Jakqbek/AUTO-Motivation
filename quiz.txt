@@ -1,0 +1,32 @@
+Przykladowy Quiz Testowa zawartosc!
+Jacob Zeitner
+Typ zmiennych o nazwie float przechowuje:
+Liczby calkowite
+Napisy
+Liczby zmiennoprzecinkowe
+Pojedyncze znaki
+c
+Wstrzymanie wykonania programu na czas 2 sekund to instrukcja:
+Wait(2000)
+Stop(2000)
+Delay(2000)
+Sleep(2000)
+d
+Ktora deklaracja jest zapisana poprawnie?
+int x;
+integer x;
+x:integer;
+int();
+a
+Biblioteka <fstream> odpowiada za..?
+Opcje 'exit'
+Zapis/Odczyt pliku na dysku
+Pobor danych na temat czasu
+Dolaczane kodu zrodlowego
+b
+w jaki sposob wywolac funkcje odnoszaca sie do innego'header'?
+int nazwa()
+nazwa()
+"nazwa.h"
+void nazwa:
+b
